@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Machine Learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ping me at sainaathramesh1504@gmail.com
+- 📫 How to reach me ping me at sainaathrameshiyer15@gmail.com
 
 <!---
 AstroPhysicist1504/AstroPhysicist1504 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
