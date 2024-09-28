@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AstroPhysicist1504
+- 👋 Hi, I’m @AstroPhysicist
 - 👀 I’m interested in Python and Machine Learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
